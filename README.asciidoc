@@ -4,3 +4,6 @@ A curated list of awesome NodeJS modules
 == got
 link:https://www.npmjs.com/package/got[got] for making external http requests
 
+== p-map
+link:https://www.npmjs.com/package/p-map[p-map] Map over promises concurrently 
+
